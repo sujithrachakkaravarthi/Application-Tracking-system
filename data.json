@@ -1,0 +1,157 @@
+{
+  "Header": {
+    "title": "Tracking the Application",
+    "paragraph": "An ATS allows recruiters to match job requisitions to the job-posting sites and the social media channels most appropriate for specific candidates."
+  },
+  "About": {
+    "paragraph": "An applicant tracking system (ATS) is software for recruiters and employers to track candidates throughout the recruiting and hiring process.",
+    "Why": [
+      "Saves time for more focused work.",
+      "Provides Better and Faster Resume Parsing.",
+      "Acts as a Single Source of Truth.",
+      "Makes Job Posting Easier and Faster."
+    ],
+    "Why2": [
+      "Makes Job Posting Easier and Faster.",
+      "Improves the Quality of Hire",
+      "Accelerates the Hiring Process",
+      "Job-specific filters"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Woridwide Applications",
+      "text": "Worldwide Applications is a company that develops custom information systems for customers and consumers."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Product Authentication",
+      "text": "Product authentication is a technology that uses hardware and software to verify a product. It can also involve using a mobile device to check a product's authenticity"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Platform Vulnerable",
+      "text": "Platform independent refers to software that can run on multiple hardware platforms or operating systems. " 
+      
+    }
+    
+    
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Excellent service and with a “down to earth” approach.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Thank you for your extra hard work to make Vizi number one. We appreciate your digital marketing efforts very much..\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"he prospect of choosing a website design team and building a new, dynamic website for our psychology practice was a daunting one.\"",
+      "name": "John Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": " ",
+    "phone": "91+ 82489 57483",
+    "email": "Application Tracking@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Candidate feedback",
+      "text": "Your positive attitude and friendliness made interviewing you a pleasure.You spoke knowledgeably about the topics we covered in the interview and demonstrated expertise in the field."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Job specific Filters",
+      "text": "How do I get my resume through filters? One of the most important steps to get your resume past online filters is to customize it for each job you apply for. "
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Accelerates hiring process",
+      "text": "What is the process of hiring? It is a process that involves everything from identifying, attracting, screening, shortlisting, interviewing, selecting, hiring, and onboarding employees."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Focused work",
+      "text": "What is the focus of work? How to Focus Better at Work: 13 Ways to Stay Focused. Focus is a person's ability to concentrate on a single point or task."
+    }
+  ]
+}
